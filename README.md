@@ -1,2 +1,3 @@
 # react-fun
-Fun projects with React
+
+Fun project with React

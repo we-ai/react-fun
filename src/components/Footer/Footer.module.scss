@@ -1,0 +1,7 @@
+@use 'variables' as v;
+
+.footer {
+  background-color: v.$footer-bg;
+  color: v.$footer-color;
+  font-size: 0.8rem;
+}

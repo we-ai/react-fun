@@ -1,0 +1,13 @@
+@use 'variables';
+.navbar {
+  ul {
+    display: block;
+    list-style: none;
+  }
+  a {
+    color: variables.$dark;
+  }
+  a:hover {
+    color: variables.$primary;
+  }
+}
